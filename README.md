@@ -1,5 +1,8 @@
 # Log Pose Console — Hackathon Frontend
-
+que poner en terminal:
+node -v
+npm install
+npm run dev
 ## Integrantes
 | Nombre | Código |
 |---|---|
