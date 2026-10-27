@@ -6,9 +6,9 @@ npm run dev
 ## Integrantes
 | Nombre | Código |
 |---|---|
-| NOMBRE 1 | CÓDIGO 1 |
-| NOMBRE 2 | CÓDIGO 2 |
-| NOMBRE 3 | CÓDIGO 3 |
+| Rodolfo Lara | 202510515 |
+| Nicolas Lara | 202520149 |
+| Adrian Gamboa | 202310652 |
 
 ## Cómo ejecutar
 Requisitos: Node 24 LTS.
